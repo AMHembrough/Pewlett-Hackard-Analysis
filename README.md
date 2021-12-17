@@ -26,6 +26,8 @@ o	Titles table : title, from_date, to_date
 -	First we retrieved the number of titles from the unique_titles table and we then created a new table called retiring_titles.  
 -	We grouped the new table by title and sorted the count column.  The final output looked like this : 
 
+![Figure 1](https://github.com/AMHembrough/Pewlett-Hackard-Analysis/blob/main/Deliverable1.PNG)
+
 The next task was to identify employees with eligibility for the company’s mentorship program.  We accomplished this using the following methodology
 -	First we retrieved data from our tables: 
 o	Employees table : emp_no, first_name, last_name, birth_date
